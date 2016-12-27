@@ -1,5 +1,5 @@
 <h1>The DNA# compiler</h1>
-<r>
+<hr>
 Coded in OCaml, DNA# is a biology computational language. It has major common data types plus nucleotde, amino acid, DNA, RNA, and peptide types. Key functions include transcribe and translate functions, which mimic the biological process. It is compiled into LLVM IR.
 
 It needs the OCaml llvm library, which is most easily installed through opam.
