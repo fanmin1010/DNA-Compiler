@@ -11,9 +11,9 @@ The version of the OCaml llvm library should match the version of the LLVM syste
 It also requires clang compiler for the c built-in functions inside the compiler.
 ( to install clang: sudo apt install clang )
 
-To run your dna files using the following command:
-make    (to build the compiler first)
-./runDNAs.sh -r filename.dnas
+To run your dna files using the following command:<br>
+make    (to build the compiler first)<br/>
+./runDNAs.sh -r filename.dnas<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-a   Print AST of file<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-c   Compile file<br>
